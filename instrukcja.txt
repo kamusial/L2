@@ -1,0 +1,21 @@
+1. rozpakuj archiwum
+https://www.cyberciti.biz/faq/how-to-zip-a-folder-in-ubuntu-linux/
+
+2. napisz skrypt, który po wpisaniu poprawnego hasła pobierze i zainstaluje jeden z programów (użytkownik wybiera)
+   1. chrome
+   2. GIMP - z dodatkami
+
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb
+
+https://www.cyberciti.biz/faq/how-to-install-gimp-on-ubuntu-debian-linux/
+
+
+3a. Napisz skrypt, który skopiuje zawartość wszystkich plików tekstowych z pulpitu, zapisze wszystko w pliku z.tzt w folderze domowym i stworzy skrót do pliku w folderze download
+Dodatkowo program doda jakiś komentarz od autora
+3b. dodaj opcje, aby były zapisane również nazwy plików, z których wyciągnięty został tekst
+
+4.Napisz skrypt, który znajdzie i zapisze wszystkie numery IP, które znajdzie w plikach. (same adresy IP)
+
+https://stackoverflow.com/questions/427979/how-do-you-extract-ip-addresses-from-files-using-a-regex-in-a-linux-shell
