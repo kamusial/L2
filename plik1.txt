@@ -9,7 +9,7 @@ oraz poprawne i niepoprawne adresy IP
 4.4345.34.3 niepoprawny adres
 
 oraz numery kont
-34 1234 4203 5454 7786 3434 3242  to jest Alior Bank
-54 1234 9890 5464 2312 6456 2342  to tez Alior
+34123442035454778634343242  to jest Alior Bank
+54 1234 9890 5464 2312 64562342  to tez Alior
 54 1234 96890 5464 2312 6456 2342   ten niepoprawny
 54 1233 9890 5464 2312 6456 2342  a to nie alior
