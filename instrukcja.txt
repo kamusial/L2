@@ -17,5 +17,6 @@ Dodatkowo program doda jakiś komentarz od autora
 3b. dodaj opcje, aby były zapisane również nazwy plików, z których wyciągnięty został tekst
 
 4.Napisz skrypt, który znajdzie i zapisze wszystkie numery IP, które znajdzie w plikach. (same adresy IP)
-
 https://stackoverflow.com/questions/427979/how-do-you-extract-ip-addresses-from-files-using-a-regex-in-a-linux-shell
+
+5. Napisz skrypt, który znajdzie wszystkie numery kont z Alior Banku.  Numery Alior Bank mają 2 losowe cygry, a potem 1234.  np. 34 1234 7657 6546 3322 3453 7657
